@@ -9,7 +9,7 @@ namespace JenkinsandSelenium
 {
     public partial class Default : System.Web.UI.Page
     {
-        protectd void Page_Load(object sender, EventArgs e)
+        protected void Page_Load(object sender, EventArgs e)
         {
 
         }
