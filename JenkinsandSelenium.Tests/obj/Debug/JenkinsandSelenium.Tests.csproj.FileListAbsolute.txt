@@ -1,0 +1,11 @@
+C:\Users\vermad\Local Repository\JenkinsandSelenium\JenkinsandSelenium.Tests\bin\Debug\JenkinsandSelenium.Tests.dll
+C:\Users\vermad\Local Repository\JenkinsandSelenium\JenkinsandSelenium.Tests\bin\Debug\JenkinsandSelenium.Tests.pdb
+C:\Users\vermad\Local Repository\JenkinsandSelenium\JenkinsandSelenium.Tests\bin\Debug\JenkinsandSelenium.dll
+C:\Users\vermad\Local Repository\JenkinsandSelenium\JenkinsandSelenium.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\vermad\Local Repository\JenkinsandSelenium\JenkinsandSelenium.Tests\bin\Debug\WebDriver.dll
+C:\Users\vermad\Local Repository\JenkinsandSelenium\JenkinsandSelenium.Tests\bin\Debug\JenkinsandSelenium.pdb
+C:\Users\vermad\Local Repository\JenkinsandSelenium\JenkinsandSelenium.Tests\bin\Debug\JenkinsandSelenium.dll.config
+C:\Users\vermad\Local Repository\JenkinsandSelenium\JenkinsandSelenium.Tests\bin\Debug\WebDriver.xml
+C:\Users\vermad\Local Repository\JenkinsandSelenium\JenkinsandSelenium.Tests\obj\Debug\JenkinsandSelenium.Tests.csprojResolveAssemblyReference.cache
+C:\Users\vermad\Local Repository\JenkinsandSelenium\JenkinsandSelenium.Tests\obj\Debug\JenkinsandSelenium.Tests.dll
+C:\Users\vermad\Local Repository\JenkinsandSelenium\JenkinsandSelenium.Tests\obj\Debug\JenkinsandSelenium.Tests.pdb
