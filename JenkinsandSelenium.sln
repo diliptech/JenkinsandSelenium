@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.6
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JenkinsandSelenium", "JenkinsandSelenium\JenkinsandSelenium.csproj", "{A82C666E-E468-4BBE-B487-A6D6BB5B270F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JenkinsandSelenium.Tests", "JenkinsandSelenium.Tests\JenkinsandSelenium.Tests.csproj", "{28A80281-A094-47F7-9E0F-1AC70CECB1AE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A82C666E-E468-4BBE-B487-A6D6BB5B270F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A82C666E-E468-4BBE-B487-A6D6BB5B270F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A82C666E-E468-4BBE-B487-A6D6BB5B270F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A82C666E-E468-4BBE-B487-A6D6BB5B270F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{28A80281-A094-47F7-9E0F-1AC70CECB1AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28A80281-A094-47F7-9E0F-1AC70CECB1AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28A80281-A094-47F7-9E0F-1AC70CECB1AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28A80281-A094-47F7-9E0F-1AC70CECB1AE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
